@@ -5,6 +5,7 @@ header {
     width: auto;
     background-color: aqua;
     justify-content: center;
+    align-items: center;
 }   
 
 .header1 {
@@ -63,8 +64,7 @@ header {
 }
 
 h1 {
-    align-items: center;
-    justify-content: center;
+    text-align: center;
     font-size: 44px;
     color: white;
 }
